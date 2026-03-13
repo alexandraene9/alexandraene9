@@ -1,8 +1,6 @@
 # 💫 About Me:
 "În viață, dragă, ori suntem spectaculoase, ori nu mai suntem deloc! Restul e cancan!"<br>Just like code - if nothing ever breaks, where’s the spectacle? :P<br>- Raluca Bădulescu <br><br>                   
-                /\_/\
-            = ( • . • ) =
-              /      \     
+              
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexandraene9&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
