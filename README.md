@@ -2,16 +2,11 @@
 "În viață, dragă, ori suntem spectaculoase, ori nu mai suntem deloc! Restul e cancan!"<br>Just like code - if nothing ever breaks, where’s the spectacle? :P<br>- Raluca Bădulescu <br><br>                   
               
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexandraene9&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alexandraene9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandraene9&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alexandraene9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alexandraene9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alexandraene9&icon=9&color=0)](https://visitcount.itsvg.in)
