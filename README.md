@@ -1,5 +1,5 @@
 # 💫 About Me:
-"În viață, dragă, ori suntem spectaculoase, ori nu mai suntem deloc! Restul e cancan!"<br>Just like code - if nothing ever breaks, where’s the spectacle? :P<br>- Raluca Bădulescu <br><br>                   
+"În viață, dragă, ori suntem spectaculoase, ori nu mai suntem deloc! Restul e cancan!"<br>Just like code - if nothing ever breaks, where’s the fun? :P<br>- Raluca Bădulescu <br><br>                   
               
 
 #  GitHub Stats:
